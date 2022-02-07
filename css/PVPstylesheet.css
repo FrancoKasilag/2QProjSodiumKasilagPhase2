@@ -1,0 +1,62 @@
+body {
+	background-image: url("wallpaper.jpeg");
+	color: white;
+	font-family: verdana;
+}
+
+.link {
+	color: cyan;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+h1 {
+	text-align: center;
+	border: 3px solid #404040;
+	background-color: #474747;
+}
+
+.image1 {
+	position: absolute;
+	left: 10px;
+	top: 100px;
+	background-color: white;
+  	border: 4px solid white;
+	width: 928px;
+	height: 522px;
+}
+
+h2 {
+	position: absolute;
+	right: 835px;
+}
+
+.p1 {
+	position: absolute;
+	left: 995px;
+	top: 170px;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+.video {
+	position: absolute;
+	right: 10px;
+	top: 640px;
+	background-color: white;
+  	border: 4px solid white;
+}
+
+.header2 {
+	position: absolute;
+	left: 10px;
+	top: 650px;
+}
+
+.p2 {
+	position: absolute;
+	left: 10px;
+	top: 750px;
+	font-family: verdana;
+	font-size: 18px;
+	
